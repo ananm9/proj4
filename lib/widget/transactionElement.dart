@@ -3,7 +3,7 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 
-import '../normalClass/Transaction.dart';
+import '../models/Transaction.dart';
 
 class TransactionElementWidget extends StatelessWidget {
   final Transaction tx;
